@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java/DAQLTV/src/DAO/Connect.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/CuonSachDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/main.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/ItemPanel.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/ItemSelected.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/InPM.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/InPhieuNhap.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/InPhieuTra.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/GradientButton.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/GradientPanel.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/BieuDoTron.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/PieChartDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/BieuDoDGChart.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/ChiTietPhieuMuon.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/LoginDialog.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/FrmLogin.java</file>
+            <file>file:/D:/Java/DAQLTV/src/UI/WrapLayout.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/SachDGDMDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/Sach.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/SachDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/ThongKeDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/PhieuTra.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/PhieuTraDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/ChiTietPhieuTraDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/SachChon.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/SachDGDM.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/TacGiaDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/TaiKhoanDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/NhanVienDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/Model/NhanVien.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/ChiTietPhieuNhapDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/PhieuNhapDAO.java</file>
+            <file>file:/D:/Java/DAQLTV/src/DAO/PhieuMuonDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
